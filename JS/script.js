@@ -33,3 +33,6 @@ password2 = password2 + domanda + "114";
 const myElement = document.getElementById('text-target') ;
 myElement.innerHTML = `La tua password è: ${password2}`;
 */
+
+
+// document.queryselector('tag html') <--- mi serve per selezionare direttamente il tag senza usare getElementById
